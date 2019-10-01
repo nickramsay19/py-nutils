@@ -9,7 +9,7 @@ print(map2range(5,0,10,0,255))
 # > 127.5
 ```
 
-## float_range
+## Float Range (float_range)
 
 ```python
 
